@@ -1,6 +1,6 @@
 # TruecallAssignment
 
-# TrueCallAssignment — Manipulate Response and Show in the screen This application is fetch the html page from the url and read the body tag with the help of jsoup library and perform some operation on the particular string.
+TrueCallAssignment — Manipulate Response and Show in the screen This application is fetch the html page from the url and read the body tag with the help of jsoup library and perform some operation on the particular string.
 
 # About TrueCallAssignment
 This application is fetch the html page from the url and read the body tag with the help of jsoup library and perform some operation on the particular string.
